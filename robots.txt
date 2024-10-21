@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iegerbura.github.io/iegerbura.txt.gz
+Sitemap: https://iegerbura.github.io/app/iegerbura.txt.gz
+Sitemap: https://iegerbura.github.io/assets/iegerbura.txt.gz
+Sitemap: https://iegerbura.github.io/css/iegerbura.txt.gz
+Sitemap: https://iegerbura.github.io/includes/iegerbura.txt.gz
+Sitemap: https://iegerbura.github.io/item/iegerbura.txt.gz
+Sitemap: https://iegerbura.github.io/src/iegerbura.txt.gz
